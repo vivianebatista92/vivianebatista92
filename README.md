@@ -5,7 +5,7 @@
 
 #
 
-<p align="center">Bacharel em Administração e estudante do programa Oracle Next Education (ONE) com foco em Análise de Dados. Atualmente, aprofundo meus estudos em SQL e Power BI para análise de dados, construção de dashboards e desenvolvimento de insights estratégicos. Tenho grande interesse em inteligência de negócios e na transformação de dados em informações valiosas para a tomada de decisões. Busco constantemente novos aprendizados e desafios na área de dados, unindo conhecimento analítico e tecnológico para gerar impacto por meio da informação.
+<p align="center">Bacharel em Administração e estudante do programa Oracle Next Education (ONE) com foco em Análise de Dados. Estudo SQL e Power BI para construir dashboards e gerar insights estratégicos. Tenho interesse em inteligência de negócios e na transformação de dados em informação valiosa. Busco aprendizado contínuo para aplicar tecnologia na tomada de decisões. 
 
 #
 
