@@ -4,9 +4,28 @@
 </div>
 <img align="center" alt="" src="./src/gif-header.gif">
 
+
 #
 
-<p align="center">Bacharel em Administração e estudante do programa Oracle Next Education (ONE) com foco em Análise de Dados. Estudo SQL e Power BI para construir dashboards e gerar insights estratégicos. Tenho interesse em inteligência de negócios e na transformação de dados em informação valiosa. Busco aprendizado contínuo para aplicar tecnologia na tomada de decisões. 
+<p align="left">Bacharel em Administração e estudante do programa Oracle Next Education (ONE) com foco em Análise de Dados. Estudo SQL e Power BI para construir dashboards e gerar insights estratégicos. Tenho interesse em inteligência de negócios e na transformação de dados em informação valiosa. Busco aprendizado contínuo para aplicar tecnologia na tomada de decisões. 
+
+#
+<img align="right" alt="" height="200px" src="./src/study.gif">
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-santos92/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viviane.plus/)
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+   <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  
+</div>
 
 #
 
