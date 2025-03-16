@@ -10,7 +10,7 @@
 <p align="center">Bacharel em Administração e estudante do programa Oracle Next Education (ONE) com foco em Análise de Dados. Estudo SQL e Power BI para construir dashboards e gerar insights estratégicos. Tenho interesse em inteligência de negócios e na transformação de dados em informação valiosa. Busco aprendizado contínuo para aplicar tecnologia na tomada de decisões. 
 
 #
-<img align="right" alt="" height="230px" src="./src/study_girl.gif">
+<img align="right" alt="" height="210px" src="./src/study_girl.gif">
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-santos92/)
